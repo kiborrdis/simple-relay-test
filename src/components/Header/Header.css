@@ -1,0 +1,15 @@
+.root {
+  align-items: center;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  padding: 0;
+}
+
+.content {
+  height: 100%;
+  margin: 0 auto;
+  width: 1280px;
+}

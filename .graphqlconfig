@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "relay-test": {
+      "schemaPath": "schema.graphql",
+      "extensions": {
+        "endpoints": {
+          "default": "https://etmdb.com/graphql"
+        }
+      }
+    }
+  }
+}
